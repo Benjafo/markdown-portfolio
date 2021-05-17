@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* silver
+* gold
+* US mint products
